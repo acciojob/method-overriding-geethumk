@@ -11,7 +11,7 @@ public class TestCases {
         B obj = new B();
 
         assertEquals(
-                "Method is overridden in Extended class B",
+                "Method is overridden in Extendend class B",
                 obj.meth()
         );
     }
